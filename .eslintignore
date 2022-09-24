@@ -1,0 +1,11 @@
+.prettierrc
+.eslintrc.json
+tailwind.config.js
+postcss.config.js
+
+# DO ignore JSON-with-comments files
+tsconfig.json
+
+build/*
+node_modules/*
+__tests__/*
